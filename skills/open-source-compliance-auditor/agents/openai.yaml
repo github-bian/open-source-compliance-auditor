@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源合规与代码同源性预审"
+  short_description: "检查项目的开源许可和分发义务，支持指定版本同源比对及整改复核"
+  default_prompt: "使用 $open-source-compliance-auditor 对当前项目做闭源商用合规预审，列出证据、发布前待核实项和整改建议。"
